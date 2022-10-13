@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/Olá.gif" height="30px">, Eu sou Manuela Alves</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Manuela Alves</h1>
 
  <div>
    <a href="https://github.com/manuela-alves">
