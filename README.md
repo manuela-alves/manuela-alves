@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Manuela Alves 😁
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/Olá.gif" height="30px">, Eu sou Manuela Alves</h1>
 
  <div>
    <a href="https://github.com/manuela-alves">
